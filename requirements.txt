@@ -1,6 +1,6 @@
 streamlit
 tensorflow==2.18.0
-scikit-learn
+scikit-learn==1.7.1
 joblib
 Pillow
 numpy
