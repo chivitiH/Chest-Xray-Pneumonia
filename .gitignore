@@ -1,0 +1,13 @@
+# Fichiers système de Windows et macOS
+.DS_Store
+Thumbs.db
+
+# Fichiers générés par Python
+__pycache__/
+*.pyc
+
+# Fichiers de configuration des éditeurs de code
+.vscode/
+.idea/
+
+data/
